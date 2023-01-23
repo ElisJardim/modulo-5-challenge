@@ -43,7 +43,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ### Solution
 
-![Summary Statistics](./images/Summary_Statistics.png)
+![Summary Statistics](./Images/Summary_Statistics.png)
 
 ## Create Bar Charts and Pie Charts
 
@@ -63,22 +63,22 @@ The executive team has tasked you with generating all of the tables and figures 
 
 #### Using Pandas
 
-![Mice tested for each drug regimen using Pandas](./images/Pan_mice_tested_per_regimen.png)
+![Mice tested for each drug regimen using Pandas](./Images/Pan_mice_tested_per_regimen.png)
 
 #### Using Pyplot
 
-![Mice tested for each drug regimen using Pyplot](./images/Pan_mice_per_treat.png)
+![Mice tested for each drug regimen using Pyplot](./Images/Pan_mice_per_treat.png)
 
 
 ### Solution 2
 
 #### Using Pandas
 
-![Distruition of gender using Pandas](./images/Distribuition_of_gender_pandas.png)
+![Distruition of gender using Pandas](./Images/Distribuition_of_gender_pandas.png)
 
 #### Using Pyplot
 
-![Distribuition of gender using Pyplot](./images/Distribuition_of_gender_pyplot.png)
+![Distribuition of gender using Pyplot](./Images/Distribuition_of_gender_pyplot.png)
 
 ## Calculate Quartiles, Find Outliers, and Create a Box Plot
 
